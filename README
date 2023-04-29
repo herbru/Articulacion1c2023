@@ -1,0 +1,3 @@
+Para descargar todas las librerias necesarias ejecutar: 
+renv::restore() en la consola de R.
+Si se utilizan librerias localmente que no estan en el renv.lock ejecutar el comando: renv::snapshot() en la consola de R.
